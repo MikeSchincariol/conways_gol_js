@@ -1,0 +1,36 @@
+div {
+    box-sizing:border-box;
+
+}
+.VDiv {
+    display: block;
+    padding:0px;
+    margin-top:0px;
+    margin-bottom:1px;
+    margin-left:0px;
+    margin-right:0px;
+    font-size:0px;
+}
+
+.HDiv {
+    display: inline-block;
+    border: 1px solid #1C6EA4;
+    border-radius: 1px;
+    min-width:15px;
+    min-height:15px;
+    width:15px;
+    height:15px;
+    padding:0;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:1px;
+}
+
+.Dead {
+    background-color:#FFFFFF;
+}
+.Live {
+    background-color:#1C6EA4;
+}
+
