@@ -8,4 +8,4 @@ To change the grid size, adjust the constants GRID_HEIGHT and GRID_WIDTH.
 
 To change the update frequency, adjust the constant ANIMATION_DELAY_IN_MS.
 
-TO change the patterns present at the start, alter the list of add*() functions that are called to load the startup patterns. Optionally, define your own!
+To change the patterns present at the start, alter the list of add*() functions that are called to load the startup patterns. Optionally, define your own!
